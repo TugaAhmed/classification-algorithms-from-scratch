@@ -1,2 +1,2 @@
 # classification-algorithms-from-scratch
-In this repository you will know how to create diffrent classification algorithms from scratch 
+on this repository you will learn how to create diffrent classification algorithms from scratch 
